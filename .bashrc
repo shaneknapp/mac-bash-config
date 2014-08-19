@@ -8,4 +8,4 @@ source $HOME/.bash_aliases
 
 # set up python interpreter tab completion
 export PYTHONSTARTUP=~/.pythonrc.py
-python ~/.pythonrc.py
+#python ~/.pythonrc.py
