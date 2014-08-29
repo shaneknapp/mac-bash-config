@@ -1,5 +1,5 @@
-alias ll="ls -lLAF"
-alias ls="ls -LAF"
+alias ll="ls -lLAFG"
+alias ls="ls -LAFG"
 
 alias j=jobs
 alias 1=%1
@@ -14,3 +14,5 @@ alias py=bpython
 #alias git="/usr/local/bin/git"
 alias hlog='git log --date-order --graph --date=short --format="%C(green)%h%Creset %C(yellow)%an%Creset %C(blue bold)%ad%Creset %C(red bold)%d%Creset%s"'
 alias alog='git log --date-order --all --graph --date=short --format="%C(green)%h%Creset %C(yellow)%an%Creset %C(blue bold)%ad%Creset %C(red bold)%d%Creset%s"'
+
+alias jenkins="ssh -A root@hadrian.millennium.berkeley.edu"
