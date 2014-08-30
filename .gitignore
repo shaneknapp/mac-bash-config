@@ -5,3 +5,4 @@
 !.bash_colors
 !.pythonrc.py
 !.gitignore
+*macports-saved*
