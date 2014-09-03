@@ -6,3 +6,4 @@
 !.pythonrc.py
 !.gitignore
 *macports-saved*
+!git-completion.bash

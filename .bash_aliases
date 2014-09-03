@@ -7,8 +7,6 @@ alias 2=%2
 alias 3=%3
 alias 4=%4
 
-alias emacs="/usr/local/Cellar/emacs/24.3/bin/emacs"
-
 alias py=bpython
 
 #alias git="/usr/local/bin/git"
