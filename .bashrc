@@ -10,6 +10,9 @@ source ~/git-completion.bash
 # set up python interpreter tab completion
 export PYTHONSTARTUP=~/.pythonrc.py
 
+# java_home
+export JAVA_HOME=$(/usr/libexec/java_home)
+
 #keychain
 /opt/local/bin/keychain --quiet --nogui ~/.ssh/id_rsa
 . ~/.keychain/$HOSTNAME-sh
